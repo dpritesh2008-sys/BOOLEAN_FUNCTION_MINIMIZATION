@@ -58,5 +58,5 @@ logical diagram
 clock pulse
 <img width="1920" height="1020" alt="clock pulse EXP2 (2)" src="https://github.com/user-attachments/assets/e559a84d-2d51-4491-97d0-c88bd0a6dee0" />
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented using and their operations are verified using Verilogprogramming.
 
